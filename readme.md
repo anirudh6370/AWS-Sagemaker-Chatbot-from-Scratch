@@ -45,6 +45,9 @@ To run the chatbot application, follow these steps:
 
 6. Interact with the chatbot by typing your questions or statements in the input field and observing the responses provided by the model.
 
+## demo
+![Chatbot App screenshot](./app/static/Screenshot 2024-02-28 195155.png)
+
 ## Additional Notes
 - The accuracy and performance of the chatbot model can be improved by further refining the training data, increasing the dataset size, or exploring other machine learning algorithms.
 - The response selection mechanism can be enhanced by incorporating more sophisticated techniques, such as semantic similarity or deep learning-based approaches.
