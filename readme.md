@@ -3,6 +3,9 @@
 ## Description
 This is a chatbot application developed in Python using the Random Forest model. The chatbot is designed to interact with users by understanding their input and providing relevant responses based on predefined intents. The model is trained on a dataset consisting of 500 question-answer pairs, which were augmented from an initial set of 90 pairs through paraphrasing techniques. The application is deployed using Streamlit, a Python library for building interactive web applications.
 
+## demo
+![Chatbot App screenshot](https://github.com/anirudh6370/AWS-Sagemaker-Chatbot-from-Scratch/blob/main/app/static/Screenshot%202024-02-28%20195155.png)
+
 ## Model Creation
 The process of creating the chatbot model involved several steps:
 
@@ -45,8 +48,6 @@ To run the chatbot application, follow these steps:
 
 6. Interact with the chatbot by typing your questions or statements in the input field and observing the responses provided by the model.
 
-## demo
-![Chatbot App screenshot](https://github.com/anirudh6370/AWS-Sagemaker-Chatbot-from-Scratch/blob/main/app/static/Screenshot%202024-02-28%20195155.png)
 
 ## Additional Notes
 - The accuracy and performance of the chatbot model can be improved by further refining the training data, increasing the dataset size, or exploring other machine learning algorithms.
